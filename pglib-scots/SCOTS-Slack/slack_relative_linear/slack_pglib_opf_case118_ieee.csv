@@ -1,0 +1,4 @@
+component_type,component_id,slack_variable_name,slack_variable_value
+branch,21,raf_s,0.2922
+branch,38,raf_s,0.09572
+branch,96,raf_s,0.19488

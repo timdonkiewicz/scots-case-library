@@ -1,0 +1,5 @@
+component_type,component_id,slack_variable_name,slack_variable_value
+gen,25,pmin_slack,2.0e-5
+gen,25,pmax_slack,2.0e-5
+gen,23,pmin_slack,2.0e-5
+gen,23,pmax_slack,2.0e-5

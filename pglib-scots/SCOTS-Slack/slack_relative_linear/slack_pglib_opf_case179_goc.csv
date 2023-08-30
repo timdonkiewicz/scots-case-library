@@ -1,0 +1,10 @@
+component_type,component_id,slack_variable_name,slack_variable_value
+gen,10,pmin_slack,1.81471
+branch,111,raf_s,0.11391
+branch,216,raf_s,9.1959
+branch,42,raf_s,8.81621
+branch,105,raf_s,3.8734
+branch,39,raf_s,12.79281
+branch,40,raf_s,3.38558
+branch,105,vadf_su,0.08425
+branch,39,vadf_su,0.69554

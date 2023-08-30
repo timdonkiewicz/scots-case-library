@@ -1,0 +1,6 @@
+component_type,component_id,slack_variable_name,slack_variable_value
+branch,2,raf_s,0.57233
+branch,1,vadf_su,0.18095
+branch,2,vadf_sl,0.28155
+branch,3,vadf_su,0.31161
+branch,3,vadf_sl,0.35823
